@@ -1,0 +1,15 @@
+__pycache__
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/codeStyle*.xml
+/trainNNtcl
+/detl*
+/extract_pfiles
+/filelist
+/onPC.log
+/onServer.log
+/speedtest
+/tmp
+evaluate_tcl
+/trainNN/out/latest
+/slurm-*.out
